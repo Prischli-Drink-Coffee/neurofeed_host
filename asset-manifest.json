@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "./static/js/main.5e187757.js",
+    "main.js": "./static/js/main.87bbb0c3.js",
+    "static/media/neuro_feed.png": "./static/media/neuro_feed.19c1b8cf1d128070ca22.png",
     "index.html": "./index.html",
-    "main.5e187757.js.map": "./static/js/main.5e187757.js.map"
+    "main.87bbb0c3.js.map": "./static/js/main.87bbb0c3.js.map"
   },
   "entrypoints": [
-    "static/js/main.5e187757.js"
+    "static/js/main.87bbb0c3.js"
   ]
 }
